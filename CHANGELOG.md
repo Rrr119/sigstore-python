@@ -10,6 +10,10 @@ All versions prior to 0.9.0 are untracked.
 
 ### Added
 
+* Added the `sigstore.package` API for signing and verifying Python
+  packages (sdists, wheels, and zip-format sdists) on top of the existing
+  `Signer`/`Verifier` APIs
+
 * HTTP clients (most importantly Rekor) now retry requests when that makes
   sense ([#1970](https://github.com/sigstore/sigstore-python/pull/1970))
 

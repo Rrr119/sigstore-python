@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid32237",
+  "B": "/home/dev/feedback/uid32237",
+  "sha": "5d71c731e0217888f493578ecc8533b9cea2b289",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "sigstore",
+    "repo": "sigstore-python",
+    "sha": "5d71c731e0217888f493578ecc8533b9cea2b289"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "sigstore-python",
+    "cloneUrl": "https://github.com/Rrr119/sigstore-python.git"
+  },
+  "at": "2026-11-21T23:35:24.214Z"
+}

@@ -119,6 +119,13 @@ class VerificationError(Error):
     """
 
 
+class PackageError(Error):
+    """
+    Raised whenever a Python package cannot be identified, parsed, or
+    validated for signing or verification purposes.
+    """
+
+
 class CertValidationError(VerificationError):
     """
     Raised when a TSA certificate chain fails to validate during Sigstore verification.

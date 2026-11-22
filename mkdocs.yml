@@ -43,6 +43,7 @@ nav:
       - Hashes: api/hashes.md
       - OIDC: api/oidc.md
       - Sign: api/sign.md
+      - Package: api/package.md
       - Verify:
           - Policy: api/verify/policy.md
           - Verifier: api/verify/verifier.md
